@@ -1,0 +1,6 @@
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\FindPi\FindPi\bin\Debug\FindPi.exe.config
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\FindPi\FindPi\obj\Debug\FindPi.csprojResolveAssemblyReference.cache
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\FindPi\FindPi\bin\Debug\FindPi.exe
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\FindPi\FindPi\bin\Debug\FindPi.pdb
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\FindPi\FindPi\obj\Debug\FindPi.exe
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\FindPi\FindPi\obj\Debug\FindPi.pdb
